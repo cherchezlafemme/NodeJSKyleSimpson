@@ -1,0 +1,1 @@
+This is a text file. We want to test the program that should be opening this file. If you see this - Great! It worked. Time to take a break.
